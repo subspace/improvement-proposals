@@ -89,7 +89,7 @@ An AIP will progress through the following statuses:
 ## 5. **Resources**
 
 - [Autonomys Forum](https://forum.autonomys.xyz/)
-- Substrate Governance Documentation
+- [Substrate Governance Documentation](https://wiki.polkadot.network/docs/learn/learn-governance)
 - [Autonomys Discord](https://autonomys.xyz/discord)
 
 By embracing this process, the Autonomys Network ensures that all voices are heard and that the network evolves in a transparent, inclusive, and efficient manner.
